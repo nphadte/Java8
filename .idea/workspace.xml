@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa0cf3b-11b4-4cd9-8212-07699f5d0075" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/String_Uses/StringConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/String_Uses/TokenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/RandomIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP1/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP2/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP3/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_Exception_Handling/UsingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_Exception_Handling/UsingExceptions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/ArraysAndStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/IntStreamOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_Uses/RegexMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C_String_Uses/RegexMatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_Uses/RegexSubstitution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C_String_Uses/RegexSubstitution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_Uses/StringBuilderConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C_String_Uses/StringBuilderConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_Uses/StringConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/String_Uses/TokenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C_String_Uses/TokenTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../complete/mvnw" beforeDir="false" />
@@ -25,28 +39,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/String_Uses/StringConstructors.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP2/Craps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/String_Uses/StringBuilderConstructors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-682">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/String_Uses/TokenTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP3/Scope.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="275">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -60,6 +65,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -71,6 +81,22 @@
         <option value="$PROJECT_DIR$/src/main/java/String_Uses/StringConstructors.java" />
         <option value="$PROJECT_DIR$/src/main/java/String_Uses/StringBuilderConstructors.java" />
         <option value="$PROJECT_DIR$/src/main/java/String_Uses/TokenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/String_Uses/RegexMatches.java" />
+        <option value="$PROJECT_DIR$/src/main/java/String_Uses/RegexSubstitution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Collections/CollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Exception_Handling/UsingExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Exception_Handling/UsingExceptions2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/IntStreamOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/ArraysAndStreams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Basics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Basics/RandomIntegers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Basics/Basics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP/OOP1/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP/OOP1/OOP1/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP/OOP1/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOP/OOP2/Craps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B_OOP/OOP2/Craps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/B_OOP/OOP3/Scope.java" />
       </list>
     </option>
   </component>
@@ -82,10 +108,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="2021" />
+    <option name="y" value="45" />
+    <option name="width" value="1356" />
+    <option name="height" value="928" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,7 +152,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="String_Uses" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543599753147" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543764514534" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -154,13 +180,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TokenTest">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.HelloWorld" />
+  <component name="RunManager" selected="Application.Scope">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.OOP1.OOP1.AccountTest" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.*" />
+          <option name="PATTERN" value="OOP.OOP1.OOP1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Uses.StringConstructors" />
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_Basics.Basics" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_Uses.*" />
+          <option name="PATTERN" value="A_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +207,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TokenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Uses.TokenTest" />
+    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_OOP.OOP2.Craps" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_Uses.*" />
+          <option name="PATTERN" value="B_OOP.OOP2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A_Basics.RandomIntegers" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_OOP.OOP3.Scope" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_OOP.OOP3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,9 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TokenTest" />
-        <item itemvalue="Application.StringConstructors" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.Craps" />
+        <item itemvalue="Application.RandomIntegers" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -219,13 +273,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8659000" />
+    <option name="totallyTimeSpent" value="31101000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23166259" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25733498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -235,17 +297,17 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23964165" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29227322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21052632" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36842105" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.34826428" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.37961927" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.21276596" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,24 +387,161 @@
     <entry file="file://$PROJECT_DIR$/Java8.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String_Uses/StringConstructors.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/TokenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringBuilderConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String_Uses/StringBuilderConstructors.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/String_Uses/TokenTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_Exception_Handling/UsingExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="609">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_Exception_Handling/UsingExceptions2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/function/IntConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Basics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/OO1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/ArraysAndStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/IntStreamOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="65" column="52" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/RegexSubstitution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOP/OOP1/OOP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP1/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP1/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#145#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/RandomIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Basics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/RegexMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP2/Craps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP3/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>

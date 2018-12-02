@@ -1,4 +1,4 @@
-package String_Uses;
+package C_String_Uses;
 
 import java.util.Scanner;
 
