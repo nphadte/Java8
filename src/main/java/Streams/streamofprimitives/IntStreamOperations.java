@@ -1,4 +1,4 @@
-package Streams;
+package Streams.streamofprimitives;
 
 import java.util.stream.IntStream;
 
