@@ -2,7 +2,9 @@ package A_Basics.StaticImport;
 
 import static java.lang.Math.*;
 import static java.lang.StrictMath.sqrt;
-
+/*
+*  Examples for static Math operations
+* */
 public class StaticImportTest {
     public static void main(String[] args)
     {

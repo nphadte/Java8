@@ -19,8 +19,6 @@ public class StreamOfLines {
                 Files.lines(Paths.get("Chapter2Paragraph.dat"))
                         .map(line -> line.replaceAll("(?!')\\p{P}", ""))
                         .flatMap(line -> pattern.splitAsStream(line))
-
-
                         .collect(Collectors.groupingBy(String::toLowerCase,
                                 TreeMap::new, Collectors.counting()));
 
