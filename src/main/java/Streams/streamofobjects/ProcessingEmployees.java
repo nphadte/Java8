@@ -55,6 +55,7 @@ public class ProcessingEmployees {
         Function<Employee, String> byLastName = Employee::getLastName;
 
         // Comparator for comparing Employees by first name then last name
+        // here the comparing is don by the function, which has been defined above
         Comparator<Employee> lastThenFirst =
                 Comparator.comparing(byLastName).thenComparing(byFirstName);
 

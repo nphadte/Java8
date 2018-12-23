@@ -1,5 +1,5 @@
 // Towers of Hanoi solution with a recursive method.
-package F_Collections;
+package F_Collections.Mathematical_Calcs;
 
 public class TowersOfHanoi {
     // recursively move disks between towers

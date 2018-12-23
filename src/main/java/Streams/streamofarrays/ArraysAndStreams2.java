@@ -32,6 +32,5 @@ public class ArraysAndStreams2 {
                         .sorted(String.CASE_INSENSITIVE_ORDER.reversed())
                         .collect(Collectors.toList()));
 
-
     }
 }

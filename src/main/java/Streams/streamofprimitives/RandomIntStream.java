@@ -2,9 +2,7 @@
 package Streams.streamofprimitives;
 
 import java.security.SecureRandom;
-import java.util.Map;
 import java.util.function.Function;
-import java.util.stream.IntStream;
 import java.util.stream.Collectors;
 
 public class RandomIntStream {

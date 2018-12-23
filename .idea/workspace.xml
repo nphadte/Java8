@@ -2,28 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa0cf3b-11b4-4cd9-8212-07699f5d0075" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/CrapsGame/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/StandardPrinting/VariousPrintStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/A_Basics/VariableScope/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Arrays/ArrayManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Arrays/BarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Arrays/StudentPoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/Myclasses/CreateFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/CreateSequentialFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/ReadSequential.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/CreateTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/PolymorphismTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/AgeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/DateTimeFormatterDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/DurationDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/DurationDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/InstantDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/LocalDateDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/PeriodDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/TImeZoneDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/TravelTimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/InputStreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/InputStreamReaderDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/FilReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FibonacciCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/MaximumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/MyTestIntegerStreams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/A_Basics/StaticImport/StaticImportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/A_Basics/StaticImport/StaticImportTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofdocument/StreamOfLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofdocument/StreamOfLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/F_Collections/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/F_Collections/TowersOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/TowersOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/RandomIntStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/RandomIntStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hello/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hello/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/hello/GreeterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hello/GreeterTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../complete/mvnw" beforeDir="false" />
@@ -44,13 +75,21 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gs_maven$PeriodDemo1.ic" NAME="PeriodDemo1 Coverage Results" MODIFIED="1544971132337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>D_Time.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gs-maven" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors_Trail.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="175">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -76,57 +115,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/Enum_Sample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/Book.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/PackageData/PackageDataTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Serialization/ReadSequentialFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Serialization/CreateSequentialFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Serialization/Account.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/E_IO/FilesAndDirectoryInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/FilesAndDirectoryInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/collections.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Sort1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/SomeClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/TowersOfHanoi.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/StackTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/PriorityQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/SetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/SortedSetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/F_Collections/WordTypeCount_HashMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/ArraysAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/ArraysAndStreams2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/IntStreamOperations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java" />
         <option value="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/RandomIntStream.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofdocument/Chapter2Paragraph.dat" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/Myclasses/CreateFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/StandardPrinting/VariousPrintStatements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/EnumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/StaticImport/StaticImportTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/VariableScope/Scope.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/CrapsGame/Craps.java" />
-        <option value="$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors_Trail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/D_Arrays/StudentPoll.java" />
-        <option value="$PROJECT_DIR$/src/main/java/D_Arrays/ArrayManipulations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/D_Arrays/BarChart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployeeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/CommissionEmployee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofdocument/StreamOfLines.java" />
-        <option value="$PROJECT_DIR$/src/main/java/A_Basics/RandomIntegers.java" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/Account.java" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/CreateSequentialFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/ReadSequential.java" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/clients.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/CreateTextFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/G_Generics/GenericMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/G_Generics/MaximumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/EmptyStackException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/InstantDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/LocalDateDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/AgeCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/DateTimeFormatterDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/DurationDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/DurationDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/PeriodDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/TImeZoneDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/D_Time/TravelTimeCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/InputStreamDemo1.java" />
         <option value="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/clients.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/InputStreamReaderDemo1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Output.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/MyTestIntegerStreams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/FilReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Data.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/BinarySearchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FactorialCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/TowersOfHanoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/Multi_Threaded_Tasks/ReactivePrintTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/Multi_Threaded_Tasks/PrintTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/Multi_Threaded_Tasks/TaskExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/Multi_Threaded_Tasks/MultiThreadedTasks/PrintTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/Multi_Threaded_Tasks/MultiThreadedTasks/ReactivePrintTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/Multi_Threaded_Tasks/MultiThreadedTasks/TaskExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt" />
       </list>
     </option>
   </component>
@@ -138,10 +177,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="130" />
-    <option name="y" value="75" />
-    <option name="width" value="1589" />
-    <option name="height" value="915" />
+    <option name="x" value="119" />
+    <option name="y" value="82" />
+    <option name="width" value="1656" />
+    <option name="height" value="954" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -181,31 +221,80 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Streams" type="462c0819:PsiDirectoryNode" />
+              <item name="E_Exception_Handling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="G_Generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThreadedSharedArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThreadedSynchronizedSharedArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="MultiThreadedTasks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544833650357" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../SP_Core_Lab/pivotal/core-spring-5.0.a.RELEASE" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545530514185" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42259008" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="C_String_Uses" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\NDP\NDP_JAVA\GitHub\gs-maven\Java8\resources" />
+      <recent name="C:\NDP\NDP_JAVA\GitHub\gs-maven\Java8\src\main\java" />
+      <recent name="C:\NDP\NDP_JAVA\GitHub\gs-maven\Java8\src\main\resources" />
+      <recent name="C:\NDP\NDP_JAVA\GitHub\gs-maven\Java8\src\main" />
+      <recent name="C:\NDP\NDP_JAVA\GitHub\gs-maven\Java8\src\main\java\E_NIO\TextFileApps" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,13 +309,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadTextFile">
-    <configuration name="BasePlusCommissionEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_OOP.OOP_Inheritance.BasePlusCommissionEmployeeTest" />
+  <component name="RunManager" selected="Application.SharedArrayTest (1)">
+    <configuration name="SharedArrayTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_Concurrency.MultiThreadedSynchronizedSharedArray.SharedArrayTest" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B_OOP.OOP_Inheritance.*" />
+          <option name="PATTERN" value="H_Concurrency.MultiThreadedSynchronizedSharedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +323,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateSequentialFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_NIO.SerializationApps.CreateSequentialFile" />
+    <configuration name="SharedArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_Concurrency.MultiThreadedSharedArray.SharedArrayTest" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_NIO.SerializationApps.*" />
+          <option name="PATTERN" value="H_Concurrency.MultiThreadedSharedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_NIO.TextFileApps.CreateTextFile" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_Collections.StackTest" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_NIO.TextFileApps.*" />
+          <option name="PATTERN" value="F_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,25 +349,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadSequential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_NIO.SerializationApps.ReadSequential" />
+    <configuration name="TaskExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="H_Concurrency.Multi_Threaded_Tasks.MultiThreadedTasks.TaskExecutor" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="E_NIO.SerializationApps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_NIO.TextFileApps.ReadTextFile" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="E_NIO.TextFileApps.*" />
+          <option name="PATTERN" value="H_Concurrency.Multi_Threaded_Tasks.MultiThreadedTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,21 +375,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TowersOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="F_Collections.Mathematical_Calcs.TowersOfHanoi" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="F_Collections.Mathematical_Calcs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.BasePlusCommissionEmployeeTest" />
-      <item itemvalue="Application.CreateSequentialFile" />
-      <item itemvalue="Application.ReadSequential" />
-      <item itemvalue="Application.CreateTextFile" />
-      <item itemvalue="Application.ReadTextFile" />
+      <item itemvalue="Application.TowersOfHanoi" />
+      <item itemvalue="Application.StackTest" />
+      <item itemvalue="Application.TaskExecutor" />
+      <item itemvalue="Application.SharedArrayTest" />
+      <item itemvalue="Application.SharedArrayTest (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadTextFile" />
-        <item itemvalue="Application.CreateTextFile" />
-        <item itemvalue="Application.ReadSequential" />
-        <item itemvalue="Application.CreateSequentialFile" />
-        <item itemvalue="Application.BasePlusCommissionEmployeeTest" />
+        <item itemvalue="Application.SharedArrayTest (1)" />
+        <item itemvalue="Application.SharedArrayTest" />
+        <item itemvalue="Application.TaskExecutor" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.TowersOfHanoi" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +423,20 @@
       <workItem from="1544670574156" duration="5996000" />
       <workItem from="1544744282406" duration="7364000" />
       <workItem from="1544786852069" duration="19222000" />
-      <workItem from="1544809377555" duration="18266000" />
+      <workItem from="1544809377555" duration="19587000" />
+      <workItem from="1544879199285" duration="7091000" />
+      <workItem from="1544918550754" duration="9065000" />
+      <workItem from="1544977294255" duration="1194000" />
+      <workItem from="1544989327891" duration="1182000" />
+      <workItem from="1544992775712" duration="8738000" />
+      <workItem from="1545052017396" duration="1045000" />
+      <workItem from="1545057331960" duration="676000" />
+      <workItem from="1545059895610" duration="44000" />
+      <workItem from="1545442491217" duration="3000" />
+      <workItem from="1545442738093" duration="9978000" />
+      <workItem from="1545454042363" duration="13336000" />
+      <workItem from="1545520665342" duration="6246000" />
+      <workItem from="1545527923281" duration="2393000" />
     </task>
     <servers />
   </component>
@@ -344,7 +446,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100588000" />
+    <option name="totallyTimeSpent" value="162900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,29 +459,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="34" width="1936" height="1014" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.750416" visible="true" weight="0.22654584" />
+      <window_info id="Structure" order="1" sideWeight="0.5009141" side_tool="true" weight="0.20628998" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.24958402" side_tool="true" weight="0.2531066" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291714" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49968886" visible="true" weight="0.123723045" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" weight="0.2951192" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6237374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2602339" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41089672" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50031114" side_tool="true" weight="0.1670673" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012225" side_tool="true" weight="0.64165735" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.37911463" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49930266" weight="0.18501702" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.19182748" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49930266" weight="0.094211124" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.34392735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -390,6 +492,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32962722" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,334 +539,89 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="133" column="40" selection-start-line="133" selection-start-column="40" selection-end-line="133" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/RandomIntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofdocument/Chapter2Paragraph.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Greeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_Exception_Handling/UsingExceptions2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/PriorityQueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/collections.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hello/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_Exception_Handling/UsingExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringBuilderConstructors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Myfile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/Myclasses/Myfile.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP1/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP1/AccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/StandardPrinting/VariousPrintStatements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Serialization/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Serialization/CreateSequentialFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Serialization/ReadSequentialFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Enum_Sample/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Basics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/PackageData/PackageDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#1025#1026#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/StaticImport/StaticImportTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/VariableScope/Scope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/CrapsGame/Craps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/InitArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/StudentPoll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/PassArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/VarargsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/ArrayManipulations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/BarChart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding>
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/CommissionEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="716">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofdocument/StreamOfLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="906">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/A_Basics/RandomIntegers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/MyTestIntegerStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Output.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofobjects/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-734">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/FilesAndDirectoryInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
+        <state relative-caret-position="25">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -771,94 +629,321 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Time/AgeCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#1004#1005#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/CreateSequentialFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1475">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="587">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/Myclasses/CreateFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Time/DateTimeFormatterDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="450">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/SerializationApps/ReadSequential.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Time/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/clients.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Time/TravelTimeCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/CreateTextFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/VarargsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        <state relative-caret-position="100">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/BarChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/D_Arrays/InitArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/FilReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" selection-start-line="28" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781">
+          <caret line="13" column="130" lean-forward="true" selection-start-line="13" selection-start-column="130" selection-end-line="13" selection-end-column="130" />
+          <folding>
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hello/GreeterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="2" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="95" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/collections.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="20" column="5" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FactorialCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FibonacciCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/TowersOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/PriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/WordTypeCount_HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/SomeClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/TokenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors_Trail.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/InputStreamDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/InputStreamReaderDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="27" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>

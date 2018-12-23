@@ -22,6 +22,7 @@ public class ReadTextFile {
         try
         {
             input = new Scanner(Paths.get("clients.txt"));
+            System.out.println("The contents of the file are :" + input.toString() );
         }
         catch (IOException ioException)
         {
