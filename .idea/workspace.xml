@@ -2,68 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa0cf3b-11b4-4cd9-8212-07699f5d0075" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/CommissionEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/PolymorphismTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/AgeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/DateTimeFormatterDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/DurationDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/DurationDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/InstantDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/LocalDateDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/PeriodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/TImeZoneDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/D_Time/TravelTimeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/InputStreamDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/InputStreamReaderDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/FilReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/E_NIO/MyFileReader/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FactorialCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/FibonacciCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/GenericMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/MaximumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/EmptyStackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/G_Generics/StackExample/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/MyTestIntegerStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/E_NIO/TextFileApps/ReadTextFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/F_Collections/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/F_Collections/Sort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Sort_Types/Sort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/F_Collections/TowersOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/F_Collections/Mathematical_Calcs/TowersOfHanoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofobjects/ProcessingEmployees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/RandomIntStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/streamofprimitives/RandomIntStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello/GreeterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hello/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hello/GreeterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hello/GreeterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/hello/Greeter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/main/java/hello/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../complete/src/test/java/hello/GreeterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../initial/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../initial/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP1/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP1/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP2/Craps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP3/Scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP4/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP4/DeckOfCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP4/DeckOfCardsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/CommissionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/BasePlusCommissionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/CommissionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/PolymorphismTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,10 +46,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt">
+        <entry file="file://$PROJECT_DIR$/Java8.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="400">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -189,7 +149,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,7 +180,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="E_Exception_Handling" type="462c0819:PsiDirectoryNode" />
+              <item name="E_NIO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
@@ -231,51 +190,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="G_Generics" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiThreadedSharedArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiThreadedSynchronizedSharedArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="H_Concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiThreadedTasks" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545530514185" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545920390117" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -437,6 +362,7 @@
       <workItem from="1545454042363" duration="13336000" />
       <workItem from="1545520665342" duration="6246000" />
       <workItem from="1545527923281" duration="2393000" />
+      <workItem from="1545920188624" duration="359000" />
     </task>
     <servers />
   </component>
@@ -446,7 +372,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162900000" />
+    <option name="totallyTimeSpent" value="163259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,9 +384,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="34" width="1936" height="1014" extended-state="6" />
+    <frame x="-8" y="63" width="1936" height="985" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.750416" visible="true" weight="0.22654584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.750416" visible="true" weight="0.24466951" />
       <window_info id="Structure" order="1" sideWeight="0.5009141" side_tool="true" weight="0.20628998" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -539,16 +465,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="716">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofarrays/ArraysAndStreams2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -595,13 +511,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/Output.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Streams/streamofobjects/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-734">
@@ -717,16 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/collections.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/collections.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/F_Collections/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -884,22 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="27" lean-forward="true" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="757">
           <caret line="38" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
-            <element signature="e#1275#1276#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,9 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="36" column="35" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="36" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,9 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
           <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -940,10 +823,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
