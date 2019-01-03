@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fa0cf3b-11b4-4cd9-8212-07699f5d0075" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP1/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP1/AccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP2/Craps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP3/Scope.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP4/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP4/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP4/DeckOfCardsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/BasePlusCommissionEmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Inheritance/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/BasePlusCommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/CommissionEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/B_OOP/OOP_Polymorphism/PolymorphismTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java8.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="385">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -136,11 +115,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="69" />
-    <option name="y" value="-20" />
+    <option name="y" value="42" />
     <option name="width" value="1696" />
-    <option name="height" value="855" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,6 +128,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,33 +154,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="E_NIO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gs-maven" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="G_Generics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545920547445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545920759736" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -362,7 +325,10 @@
       <workItem from="1545454042363" duration="13336000" />
       <workItem from="1545520665342" duration="6246000" />
       <workItem from="1545527923281" duration="2393000" />
-      <workItem from="1545920188624" duration="359000" />
+      <workItem from="1545920188624" duration="593000" />
+      <workItem from="1545920829962" duration="128000" />
+      <workItem from="1545921501184" duration="27000" />
+      <workItem from="1545946109612" duration="72000" />
     </task>
     <servers />
   </component>
@@ -372,7 +338,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163259000" />
+    <option name="totallyTimeSpent" value="163720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,9 +350,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="63" width="1936" height="985" extended-state="6" />
+    <frame x="69" y="-20" width="1696" height="855" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.750416" visible="true" weight="0.24466951" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.750416" visible="true" weight="0.25366747" />
       <window_info id="Structure" order="1" sideWeight="0.5009141" side_tool="true" weight="0.20628998" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,7 +367,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.41089672" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3961219" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012225" side_tool="true" weight="0.64165735" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -730,20 +696,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/TokenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors_Trail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/TokenTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/C_String_Uses/StringConstructors_Trail.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/E_NIO/InputStreamDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -761,87 +715,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="36" column="35" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="36" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/PrintTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/ReactivePrintTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedTasks/TaskExecutor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SimpleArray.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/SharedArrayTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SharedArrayTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/ArrayWriter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSynchronizedSharedArray/SimpleArray.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/H_Concurrency.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyCodilityTests/BinaryGapTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/H_Concurrency/MultiThreadedSharedArray/ArrayWriter.java" />
     <entry file="file://$PROJECT_DIR$/Java8.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="385">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
